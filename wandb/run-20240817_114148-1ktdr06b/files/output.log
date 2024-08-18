@@ -1,3 +1,0 @@
-<wandb.sdk.wandb_run.Run object at 0x00000188BF769100>
-[{"variableName": "df", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false}]
-[{"variableName": "df", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false}]
