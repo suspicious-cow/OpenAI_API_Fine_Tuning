@@ -1,0 +1,47 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.4",
+    "heartbeatAt": "2024-08-18T10:31:07.820280",
+    "startedAt": "2024-08-18T10:31:01.577214",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "fine_tune_openai_sentiment_wandb.ipynb",
+    "codePathLocal": "fine_tune_openai_sentiment_wandb.ipynb",
+    "git": {
+        "remote": "https://github.com/suspicious-cow/OpenAI_API_Fine_Tuning.git",
+        "commit": "11e24c47eb7de843634e394f8e085078eb270d7e"
+    },
+    "email": "zain_naboulsi@msn.com",
+    "root": "C:/Users/Zain_/Dropbox/Personal/Data Science Projects/OpenAI_API_Fine_Tuning",
+    "host": "ZainPC",
+    "username": "Zain_",
+    "executable": "c:\\Users\\Zain_\\anaconda3\\envs\\OpenAI\\python.exe",
+    "cpu_count": 64,
+    "cpu_count_logical": 128,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {},
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070 SUPER",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 255.51619338989258
+    }
+}
